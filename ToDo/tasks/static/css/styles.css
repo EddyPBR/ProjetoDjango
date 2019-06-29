@@ -106,3 +106,14 @@ footer p {
     text-align: center;
     top: 50%;
 }
+
+/* Messages */
+
+ul.messages {
+    padding: 0;
+    list-style: none;
+}
+
+ul.messages li {
+    list-style: none;
+}
