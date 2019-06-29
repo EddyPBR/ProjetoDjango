@@ -1,5 +1,5 @@
 # ProjetoDjango
-<h3>Projeto da cadeira de programação III - by Edvaldo Junior<h3>
+<h3>Projeto da cadeira de programação III - by Edvaldo Junior</h3>
 
 <p>
   Este projeto é um agendador de tarefas feito em python+django 
