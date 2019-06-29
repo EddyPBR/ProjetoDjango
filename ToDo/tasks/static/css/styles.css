@@ -34,6 +34,10 @@
     margin-right: 25px;
 }
 
+#add-link {
+    text-decoration: none;
+}
+
 .fas.fa-plus {
     color: #fff;
     margin-right: 10px;
